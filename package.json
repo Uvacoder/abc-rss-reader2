@@ -26,7 +26,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
     "autoprefixer": "^10.2.6",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.0.6",
+    "cssnano": "^5.1.14",
     "dotenv": "^10.0.0",
     "feedparser": "^2.2.10",
     "node-fetch": "^2.6.1",
